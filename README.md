@@ -2,6 +2,8 @@
 
 #Add SVN Plugin:
 
+https://www.polarion.com/products/svn/subversive/download?utm_source=eclipse.org&utm_medium=link&utm_campaign=subversive
+
 Help -> install new software -> subversion update site URL(http://download.eclipse.org/technology/subversive/3.0/update-site/) -> agree -> Finish
 
 # Add SVN Connectors:
