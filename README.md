@@ -17,6 +17,10 @@ Windows -> Preference -> Servers -> Add
 #Error while converting a class file to Webservice:
 Server -> add/remove -> removeAll
 
+#Change Eclipse Java HOME:
+IN eclipse.ini file, add below.
+-vm
+C:\Program Files\Java\jdk1.7.0_60\bin\javaw.exe
 
 
 
